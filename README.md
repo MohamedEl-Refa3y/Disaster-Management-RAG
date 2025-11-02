@@ -1,7 +1,7 @@
 # 🌪️ Disaster Management AI System — RAG-Based Intelligence using Jina Embeddings & ALLAM 7B
 
 ## 🧭 Overview
-This project implements a **Retrieval-Augmented Generation (RAG)** workflow designed for ** a prototype for Disaster Management in Hail**, focusing on improving response intelligence, data accessibility, and decision-making capabilities during emergency situations.
+This project implements a **Retrieval-Augmented Generation (RAG)** workflow designed for **a prototype Disaster Management in Hail**, focusing on improving response intelligence, data accessibility, and decision-making capabilities during emergency situations.
 
 The system integrates **structured disaster data** from SQL Server with **semantic embeddings** and a **Large Language Model (LLM)** — enabling real-time question answering and situational awareness through retrieval-augmented reasoning.
 
